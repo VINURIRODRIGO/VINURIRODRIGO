@@ -81,7 +81,7 @@ I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  proble
 
 ## 📈 GitHub Stats 
 
-[![Vinuri's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Vinuri's github stats](https://github-readme-stats.vercel.app/api?username=VINURIRODRIGO)](https://github.com/VINURIRODRIGO)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINURIRODRIGO&layout=compact)](https://github.com/VINURIRODRIGO)
 
