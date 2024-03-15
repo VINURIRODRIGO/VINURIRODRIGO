@@ -9,17 +9,8 @@ class FullstackDeveloper {
     this.name = name;
     this.role = role;
     this.skills = [
-      "Java",
-      "Kotlin",
-      "AWS",
-      "Python",
-      "Git",
-      "JavaScript",
-      "Node.js",
-      "HTML5",
-      "REST APIs",
-      "CSS",
-      "Bootstrap",
+      "Java", "Kotlin", "AWS", "Python", "Git", "JavaScript",
+      "Node.js", "HTML5", "REST APIs", "CSS", "Bootstrap",
     ];
     this.languages = {
       "English": "Professional working Proficiency",
