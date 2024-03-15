@@ -23,7 +23,7 @@ class FullstackDeveloper {
     console.log(
       "Hi! I'm " +
         this.name +
-        ",Thanks for stopping by! \n I hope you like my projects.\n Feel free to ask questions or connect!😊"
+        ",Thanks for stopping by! \nI hope you like my projects.\nFeel free to ask questions or connect!😊"
     );
   }
 }
