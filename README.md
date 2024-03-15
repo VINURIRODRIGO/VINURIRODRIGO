@@ -14,8 +14,7 @@ class FullstackDeveloper {
     };
     this.contact = {
       email: "vinuri.rodrigo@gmail.com",
-      linkedin: "https://www.linkedin.com/in/vinuri-rodrigo",
-      github: "https://github.com/VINURI",
+      linkedin: "https://www.linkedin.com/in/vinuri-rodrigo"
     };
   }
 
