@@ -8,10 +8,6 @@ class FullstackDeveloper {
   constructor(name, role) {
     this.name = name;
     this.role = role;
-    this.skills = [
-      "Java", "Kotlin", "AWS", "Python", "Git", "JavaScript",
-      "Node.js", "HTML5", "REST APIs", "CSS", "Bootstrap",
-    ];
     this.languages = {
       "English": "Professional working Proficiency",
       "Sinhala": "Native",
@@ -27,7 +23,7 @@ class FullstackDeveloper {
     console.log(
       "Hi! I'm " +
         this.name +
-        ", an experienced Fullstack developer skilled in building and maintaining backend systems for web applications, mobile apps, and deep-learning models. My expertise includes object-oriented programming, database management, and API development. With strong problem-solving and analytical skills, I am motivated to contribute to an innovative organization."
+        ", an experienced Fullstack developer skilled in building and maintaining backend systems for web applications, mobile apps, and deep-learning models."
     );
   }
 }
