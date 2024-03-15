@@ -4,20 +4,46 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinurirodrigo.vinurirodrigo)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ```javascript
-class SoftwareEngineer {
-    constructor() {
-        this.name = "Vinuri Rodrigo";
-        this.role = "Software Engineer";
-        this.language_spoken = ["sinhala", "en_US"];
-    }
+class FullstackDeveloper {
+  constructor(name, role) {
+    this.name = name;
+    this.role = role;
+    this.skills = [
+      "Java",
+      "Kotlin",
+      "AWS",
+      "Python",
+      "Git",
+      "JavaScript",
+      "Node.js",
+      "HTML5",
+      "REST APIs",
+      "CSS",
+      "Bootstrap",
+    ];
+    this.languages = {
+      "English": "Professional working Proficiency",
+      "Sinhala": "Native",
+    };
+    this.contact = {
+      email: "vinuri.rodrigo@gmail.com",
+      linkedin: "https://www.linkedin.com/in/vinuri-rodrigo",
+      github: "https://github.com/VINURI",
+    };
+  }
 
-    sayHi() {
-        console.log("Thanks for dropping by, hope you find some of my work interesting.");
-    }
+  introduce() {
+    console.log(
+      "Hi! I'm " +
+        this.name +
+        ", an experienced Fullstack developer skilled in building and maintaining backend systems for web applications, mobile apps, and deep-learning models. My expertise includes object-oriented programming, database management, and API development. With strong problem-solving and analytical skills, I am motivated to contribute to an innovative organization."
+    );
+  }
 }
 
-const me = new SoftwareEngineer();
-me.sayHi();
+const vinuri = new FullstackDeveloper("Vinuri Rodrigo", "Undergraduate Student");
+vinuri.introduce();
+
 ```
 I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️ 
 <br/>
