@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **DeepaJarout(JavaScript Full-stack Developer)**. I ✨ like ✨  problem-solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  problem-solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on Node JS 
 - 🌱 I’m currently learning Docker
