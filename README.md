@@ -1,89 +1,50 @@
-### Hi there 👋
 
+# Hi 👋 I'm Vinuri Rodrigo!
 
-I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  problem-solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinurirodrigo.vinurirodrigo)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+```javascript
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Vinuri Rodrigo";
+        this.role = "Software Engineer";
+        this.language_spoken = ["sinhala", "en_US"];
+    }
 
-- 🔭 I’m currently working on Node JS 
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on new business ideas.
-<!-- - 🤔 I’m seeking help with new business ideas. -->
-- 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me: DM 📱 email-vinuri.rodrigo@gmail.com.
+    sayHi() {
+        console.log("Thanks for dropping by, hope you find some of my work interesting.");
+    }
+}
 
-## 🤝 Connect with me:
+const me = new SoftwareEngineer();
+me.sayHi();
+```
+I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️ 
+<br/>
+<br/>
 
-<a href="www.linkedin.com/in/vinuri-rodrigo"><img align="left" src="https://raw.githubusercontent.com/VINURIRODRIGO/VINURIRODRIGO/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Vinuri Rodrigo | LinkedIn" width="35px"/></a>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+### 🧐 More About Me:
 
-<a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
+- 🔭 &nbsp; I’m currently working on **Underwater Debris Detection System**
+- 🌱 &nbsp; I’m currently learning ReactJs, Next JS; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vinurirodrigo?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harini-rodrigo/)
+<br>
 
-<a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
-
-<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
-
-<a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
-
-<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
-
-<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
-</br>
-</br>
-
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
-</br>
-
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/TestingTools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
-![](https://img.shields.io/badge/TestingTools-jest-informational?style=flat&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/testingTools-mocha-informational?style=flat&logo=mocha&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
-
-
-## 📈 GitHub Stats 
-
-[![Vinuri's github stats](https://github-readme-stats.vercel.app/api?username=VINURIRODRIGO)](https://github.com/VINURIRODRIGO)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINURIRODRIGO&layout=compact)](https://github.com/VINURIRODRIGO)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VINURIRODRIGO.VINURIRODRIGO)]
-view rawREADME.txt hosted with ❤ by GitHub
+<br>
