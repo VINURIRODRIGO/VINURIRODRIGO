@@ -8,11 +8,11 @@ I am **DeepaJarout(JavaScript Full-stack Developer)**. I ✨ like ✨  problem-s
 - 👯 I’m looking to collaborate on new business ideas.
 <!-- - 🤔 I’m seeking help with new business ideas. -->
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me: DM 📱 email-dj.jarout@gmail.com.
+- 📫 How to reach me: DM 📱 email-vinuri.rodrigo@gmail.com.
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+<a href="www.linkedin.com/in/vinuri-rodrigo"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
 <a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
