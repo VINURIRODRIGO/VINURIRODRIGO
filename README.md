@@ -79,18 +79,11 @@ I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  proble
 ![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 
 
-## 📝 Latest Blog Posts
-
-- [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
-- [Data Types In Javascript](https://medium.com/@deepajarout/data-types-in-javascript-fd7cd14ad4a7)
-- [Variables In Javascript](https://medium.com/@deepajarout/variables-in-javascript-ef840522e80d)
-
-
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Vinuri's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINURIRODRIGO&layout=compact)](https://github.com/VINURIRODRIGO)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)]
 view rawREADME.txt hosted with ❤ by GitHub
