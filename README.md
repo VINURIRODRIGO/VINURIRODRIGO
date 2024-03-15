@@ -31,7 +31,7 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 - 🌱 &nbsp; I’m currently learning ReactJs, Next JS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vinurirodrigo?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harini-rodrigo/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/vinuri-rodrigo/)
 <br>
 
 ### 🔨 Languages and Tools:
