@@ -23,7 +23,7 @@ class FullstackDeveloper {
     console.log(
       "Hi! I'm " +
         this.name +
-        ", a Fullstack developer with expertise in building and maintaining web, mobile, and deep-learning applications."
+        ", a Full-stack developer with expertise in building and maintaining web, mobile, and deep-learning applications."
     );
   }
 }
