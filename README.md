@@ -12,7 +12,7 @@ I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  proble
 
 ## 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/vinuri-rodrigo"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+<a href="www.linkedin.com/in/vinuri-rodrigo"><img align="left" src="https://raw.githubusercontent.com/VINURIRODRIGO/VINURIRODRIGO/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Vinuri Rodrigo | LinkedIn" width="35px"/></a>
 
 <a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
@@ -85,5 +85,5 @@ I am **Vinuri Rodrigo(JavaScript Full-stack Developer)**. I ✨ like ✨  proble
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINURIRODRIGO&layout=compact)](https://github.com/VINURIRODRIGO)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)]
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VINURIRODRIGO.VINURIRODRIGO)]
 view rawREADME.txt hosted with ❤ by GitHub
