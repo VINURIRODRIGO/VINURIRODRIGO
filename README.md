@@ -68,6 +68,6 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 &nbsp;<br>
 &nbsp;<be>
 
-### <img src="https://github.com/HARINIRODRIGO/HARINIRODRIGO/blob/main/templates/github.png" width="25" height="25"> &nbsp; Github Stats:
+### <img src="https://github.com/VINURIRODRIGO/VINURIRODRIGO/blob/main/templates/github.png" width="25" height="25"> &nbsp; Github Stats:
 | <a href="https://github.com/vinurirodrigo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VINURIRODRIGO&theme=github_dark_dimmed&show_icons=true" alt="Vinuri Rodrigo's github stats" /></a> | <a href="https://github.com/vinurirodrigo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINURIRODRIGO&theme=github_dark_dimmed&langs_count=8&layout=compact" /></a> |
 | ------------- | ------------- |
