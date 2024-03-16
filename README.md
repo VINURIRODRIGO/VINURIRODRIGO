@@ -42,7 +42,7 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 - 🔭 &nbsp; I’m currently working on **Final Year Project**
 - 🌱 &nbsp; I’m currently learning Node.Js, React 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vinurirodrigo?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help: [Vinuri Rodrigo 📧](mailto:vinuri.rodrigo@gmail.com?subject=[GitHub]%20Source%20Question) 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/vinuri-rodrigo/)
 <br>
 
