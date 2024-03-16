@@ -62,3 +62,11 @@ I am a Full-Stack developer 💻. I love exploring new tech stacks 💻 and leve
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" align="left" alt="CSS" height='42px'/>  </a>
 <a href="https://swagger.io/docs/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" align="left" alt="Swagger" height='42px'/>  </a>
 <br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<be>
+
+
+![Vinuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=VINURIRODRIGO&theme=github_dark_dimmed&show_icons=true)
